@@ -49,7 +49,7 @@ With over seven years of experience in research and development, I am passionate
       <br>PHP
     </td>
     <td align="center">
-      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img alt="git" height=64px src="https://devicons.dev.br/icons?icon=git">
       <br>Git
     </td>
     <td align="center">
