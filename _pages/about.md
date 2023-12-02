@@ -21,7 +21,7 @@ With over seven years of experience in research and development, I am passionate
       <br>Tensorflow
     </td>
     <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img alt="javascript" height=64px src="https://devicons.dev.br/icons?icon=javascript">
       <br>Javascript
     </td>
     <td align="center">
@@ -33,15 +33,15 @@ With over seven years of experience in research and development, I am passionate
       <br>LATEX
     </td>
     <td align="center">
-      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img alt="vue" height=64px src="https://devicons.dev.br/icons?icon=vue">
       <br>Vue
     </td>
     <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <img alt="bootstrap" height=64px src="https://devicons.dev.br/icons?icon=bootstrap">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="html5" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      <img alt="html5" height=64px src="https://devicons.dev.br/icons?icon=html">
       <br>HTML5
     </td>
     <td align="center">
@@ -96,3 +96,5 @@ With over seven years of experience in research and development, I am passionate
 <br>
 
 - How to reach me **aniksen.cuet09@gmail.com** or **as5867@drexel.edu**
+
+<br>
