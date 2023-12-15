@@ -33,7 +33,7 @@ With over seven years of experience in research and development, I am passionate
       <br>LATEX
     </td>
     <td align="center">
-      <img alt="vue" height=64px src="https://devicons.dev.br/icons?icon=vue">
+      <img alt="vue" height=64px src="https://devicons.dev.br/icons?icon=vuejs">
       <br>Vue
     </td>
     <td align="center">
