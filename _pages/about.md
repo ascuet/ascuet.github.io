@@ -17,73 +17,73 @@ With over seven years of experience in research and development, I am passionate
 <table>
   <tr>
     <td align="center">
-      <img alt="tensorflow" height=64px src="https://devicons.dev.br/icons?icon=Tensorflow">
+      <img alt="tensorflow" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
       <br>Tensorflow
     </td>
     <td align="center">
-      <img alt="javascript" height=64px src="https://devicons.dev.br/icons?icon=javascript">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
     <td align="center">
-       <img alt="laravel" height=64px src="https://devicons.dev.br/icons?icon=Laravel" />
+       <img alt="laravel" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
       <br>Laravel
     </td>
     <td align="center">
-      <img alt="LATEX" height=64px src="https://devicons.dev.br/icons?icon=Latex">
+      <img alt="LATEX" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
       <br>LATEX
     </td>
     <td align="center">
-      <img alt="vue" height=64px src="https://devicons.dev.br/icons?icon=vuejs">
+      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
       <br>Vue
     </td>
     <td align="center">
-      <img alt="bootstrap" height=64px src="https://devicons.dev.br/icons?icon=bootstrap">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="html5" height=64px src="https://devicons.dev.br/icons?icon=html">
+      <img alt="html5" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <br>HTML5
     </td>
     <td align="center">
-      <img alt="php" height=64px src="https://devicons.dev.br/icons?icon=PHP">
+      <img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
       <br>PHP
     </td>
     <td align="center">
-      <img alt="git" height=64px src="https://devicons.dev.br/icons?icon=git">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br>Git
     </td>
     <td align="center">
-      <img alt="jquery" height=64px src="https://devicons.dev.br/icons?icon=jquery">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
     <td align="center">
-      <img alt="wordpress" height=64px src="https://devicons.dev.br/icons?icon=wordpress">
+      <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
       <br>WordPress
     </td>
     <td align="center">
-      <img alt="angular" height=64px src="https://devicons.dev.br/icons?icon=angular">
+      <img alt="angular" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
       <br>Angular
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="firebase" height=64px src="https://devicons.dev.br/icons?icon=firebase">
+      <img alt="firebase" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons//firebase/firebase-original.svg">
       <br>Firebase
     </td>
     <td align="center">
-      <img alt="python" height=64px src="https://devicons.dev.br/icons?icon=python">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
     <td align="center">
-      <img alt="postman" height=64px src="https://devicons.dev.br/icons?icon=postman">
+      <img alt="postman" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
       <br>Postman
     </td>
     <td align="center">
-      <img alt="tailwind" height=64px src="https://devicons.dev.br/icons?icon=tailwindcss">
+      <img alt="tailwind" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
       <br>Tailwind
     </td>
     <td align="center">
-      <img alt="sass" height=64px src="https://devicons.dev.br/icons?icon=sass">
+      <img alt="sass" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
       <br>Sass
     </td>
     <td align="center">
