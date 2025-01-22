@@ -109,6 +109,6 @@ With over seven years of experience in research and development, I am passionate
 </p>
 <br>
 <h2>How to Reach</h2>
-Please email me at aniksen.cuet09@gmail.com or as5867@drexel.edu
+<p>Please email me at <strong>aniksen.cuet09@gmail.com</strong> or <strong>as5867@drexel.edu</strong>.</p>
 <br>
 
