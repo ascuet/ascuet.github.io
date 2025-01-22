@@ -104,11 +104,11 @@ With over seven years of experience in research and development, I am passionate
  
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ascuet&count_private=true&show_icons=true&count_private=true"/> </p>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascuet&layout=compact&count_private=true" /> </p>	 -->
-<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ascuet" />  -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascuet&layout=compact&count_private=true" /> </p>	
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ascuet" /> 
 </p>
 <br>
-
-- How to reach me **aniksen.cuet09@gmail.com** or **as5867@drexel.edu**
-
+<h2>How to Reach</h2>
+<p>Please email me at **aniksen.cuet09@gmail.com** or **as5867@drexel.edu** </p>
 <br>
+
