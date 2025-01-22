@@ -94,6 +94,20 @@ With over seven years of experience in research and development, I am passionate
 </table>
 
 <br>
+<h2>GitHub Stats</h2> 
+<p align="center">
+   <a href="https://img.shields.io/github/followers/ascuet?label=Follow&style=social">
+      <img alt="Coverage" src="https://img.shields.io/github/followers/ascuet?label=Follow&style=social" height="25">
+   </a>
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ascuet&style=flat&labelColor=black&logo=github&label=VISITORS&color=29bf12">
+   <img alt="Updated" src="https://img.shields.io/github/last-commit/ascuet/ascuet?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ 
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ascuet&count_private=true&show_icons=true&count_private=true"/> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascuet&layout=compact&count_private=true" /> </p>	 -->
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ascuet" />  -->
+</p>
+<br>
 
 - How to reach me **aniksen.cuet09@gmail.com** or **as5867@drexel.edu**
 
