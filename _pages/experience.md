@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Department of CSE, Premier University, Chattogram, Bangladesh** <br />
-Apr 2022 – Present: Assistant Professor (Currently in Study Leave) <br />
+Apr 2022 – Present: Assistant Professor (Currently on Study Leave) <br />
 Oct 2018 – Apr 2022: Lecturer <br />
 **Courses Taught:** Software Development, Software Engineering & Information System Design, Computer Graphics & Image Processing, Database Management System, Algorithm Design and Analysis
 
