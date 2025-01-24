@@ -23,7 +23,7 @@ Jan 2015 – Aug 2015: Software Engineer <br />
 **Responsibilities:** Developed customized CMS and web applications using ASP.NET, MSSQL
 
 **Freelancing Experience** <br />
-Jan 2016 – Present: Freelance Web Developer <br />
+Jan 2016 – August 2022: Freelance Web Developer <br />
 1. Worked on Upwork: MyBodega (USA), Dubips (Germany), Hrick (Bangladesh), Pakpoll (Pakistan), Hostbin (USA)
 2. Worked for a Canada-India Joint company, Anveen NetWorks
 3. Developed an application ( Azshipping) for crew management and maintaining it
