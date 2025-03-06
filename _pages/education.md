@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 **➤PhD (Sep 2023 - Present), Information Science at Drexel University, USA** <br />
-
 ***Courses:***  
-
 <table>
   <tr>
     <td>Introduction to Artificial Intelligence</td>
@@ -31,11 +29,10 @@ author_profile: true
     <td>Qualitative Research Methods</td>
   </tr>
 </table>
-
+<hr>
 
 **➤MSc (2021), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
-**Thesis:** Classification of Sports Videos using Deep Neural Networks 
-
+**Thesis:** Classification of Sports Videos using Deep Neural Networks <br />
 ***Courses:***  
 <table>
   <tr>
@@ -49,10 +46,7 @@ author_profile: true
     <td>Cryptography and Network Security</td>
   </tr>
 </table>
+<hr>
 
 **➤BSc (2014), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
 **Thesis:** A Method for Image Retrieval System Based on Class Detection and Content Analysis in Broad Domain
-
-**➤Higher Secondary School Certificate (HSC) (2009), Govt. City College, Chattogram, Bangladesh**
-
-**➤Secondary School Certificate (SSC) (200&) Chittagong Collegiate School Chattogram, Bangladesh**
