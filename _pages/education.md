@@ -10,21 +10,20 @@ author_profile: true
 <table>
   <tr>
     <td>Introduction to Artificial Intelligence</td>
-    <td>Machine Learning</td>
+    <td>Applied Artificial Intelligence</td>
     <td>Science of Science</td>
   </tr>
   <tr>
-    <td>Applied Artificial Intelligence</td>
-    <td>Deep Learning</td>
+    <td>Machine Learning</td>
+    <td>Applications of Machine Learning</td>
     <td>PhD Process and Practice</td>
   </tr>
   <tr>
-    <td>Applications of Machine Learning</td>
     <td>Robust Deep Learning</td>
+    <td>Foundations in Data Science</td>
     <td>Fairness, Equity, and Justice in AI and Computing</td>
   </tr>
   <tr>
-    <td>Foundations in Data Science</td>
     <td>Human-Centered Computing</td>
     <td>Qualitative Research Methods</td>
   </tr>
