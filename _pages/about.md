@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! I'm Anik Sen, an enthusiastic explorer in the field of deep learning and generative AI.
+Hello there! I'm Anik Sen, an enthusiastic explorer in the field of Generative AI and Foundation Models.
 
-I am currently working as Research Assistant at Drexel University College of Computing & Informatics, where I am pursuing my PhD in Information Science. My research focuses on leveraging vision-language models (VLMs) to address real-world challenges with a strong emphasis on explainability. I am also an Assistant Professor at Premier University, Chittagong, Bangladesh, where I have been teaching Computer Science and Engineering since 2018. Currently, I am on study leave Premier University to pursue PhD research.
+I am currently working as Graduate Assistant at Drexel University College of Computing & Informatics, where I am pursuing my PhD in Information Science. My research interests focus on examining foundation models through their responses to multimodal inputs, with the goal of characterizing how alignment performance and reasoning behavior vary across modalities and tasks. I am interested in both theoretical developments in model alignment and reasoning, as well as applied work—particularly applications in the medical domain. In addition, I am broadly interested in data-science methodologies for solving real-world problems. Before joining Drexel, I was working as an Assistant Professor at Premier University, Chittagong, Bangladesh, where I taught Computer Science and Engineering since 2018. 
 
-With over seven years of experience in research and development, I am passionate about advancing the state-of-the-art in artificial intelligence, especially in computer vision, generative AI, and deep learning. I have published multiple papers in reputed journals and conferences, and developed novel architectures and methods for various machine learning and computer vision tasks. I am also proficient in web development, software engineering, and software development. My aim is to apply these skills and knowledge to solve real-world problems and create positive social impact.
+With over seven years of experience in research and development, I am passionate about advancing the state-of-the-art in artificial intelligence, especially in computer vision, generative AI, natural language processing, and data science. I have published multiple papers in peer-reviewed journals and conferences. I am also proficient in web development, software engineering, and software development. My aim is to apply these skills and knowledge to solve real-world problems and create positive social impact.
 
 <h2>My Skills</h2>
 <table>
