@@ -101,7 +101,7 @@ With over seven years of experience in research and development, I am passionate
   </tr>
 </table>
 
-<br>
+<!-- <br>
 <h2>GitHub Stats</h2> 
 <p align="center">
    <a href="https://img.shields.io/github/followers/ascuet?label=Follow&style=social">
@@ -114,7 +114,7 @@ With over seven years of experience in research and development, I am passionate
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ascuet&count_private=true&show_icons=true&count_private=true"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascuet&layout=compact&count_private=true" /> </p>	
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ascuet" /> 
-</p>
+</p> -->
 <br>
 <h2>How to Reach</h2>
 <p>Please email me at <strong>aniksen.cuet09@gmail.com</strong> or <strong>as5867@drexel.edu</strong>.</p>
