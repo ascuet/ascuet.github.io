@@ -21,6 +21,18 @@ With over seven years of experience in research and development, I am passionate
       <br>Tensorflow
     </td>
     <td align="center">
+      <img alt="scikit-learn" height=64px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+      <br>Scikit-learn
+    </td>
+    <td align="center">
+      <img alt="pandas" height=64px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+      <br>Pandas
+    </td>
+    <td align="center">
+      <img alt="matplotlib" height=64px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg">
+      <br>Matplotlib
+    </td>
+    <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
@@ -48,27 +60,15 @@ With over seven years of experience in research and development, I am passionate
       <img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
       <br>PHP
     </td>
-    <td align="center">
-      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <br>Git
-    </td>
-    <td align="center">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-      <br>jQuery
-    </td>
-    <td align="center">
-      <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-      <br>WordPress
-    </td>
-    <td align="center">
-      <img alt="angular" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-      <br>Angular
-    </td>
   </tr>
   <tr>
     <td align="center">
       <img alt="firebase" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons//firebase/firebase-original.svg">
       <br>Firebase
+    </td>
+    <td align="center">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>Git
     </td>
     <td align="center">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -89,6 +89,14 @@ With over seven years of experience in research and development, I am passionate
     <td align="center">
       <img alt="composer" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
       <br>Composer
+    </td>
+    <td align="center">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+      <br>jQuery
+    </td>
+    <td align="center">
+      <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+      <br>WordPress
     </td>
   </tr>
 </table>
