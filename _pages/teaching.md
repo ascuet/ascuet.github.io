@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Drexel University
-1. Web Systems & Architecture (INFO 600): Winter 2025 (upcoming)
+1. Web Systems & Architecture (INFO 600): Winter 2025
 2. Database Administration I (INFO 365 ): Fall 2025
 3. Applied Artificial Intelligence (INFO 629): Summer 2024
 
