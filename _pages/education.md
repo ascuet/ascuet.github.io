@@ -26,6 +26,7 @@ author_profile: true
   <tr>
     <td>Human-Centered Computing</td>
     <td>Qualitative Research Methods</td>
+    <td>Data Workflow Automation</td>
   </tr>
 </table>
 <hr>
