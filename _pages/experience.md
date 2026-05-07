@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 **➤College of Computing and Informatics, Drexel University, Philadelphia, Pennsylvania, United States** <br />
-Apr 2022 – Present: Graduate Research Assistant <br />
+Sep 2023 – Present: Graduate Research/Teaching Assistant <br />
 
 **Responsibilities:** 
 <ul>
@@ -16,7 +16,7 @@ Apr 2022 – Present: Graduate Research Assistant <br />
 </ul>
 
 **➤Department of CSE, Premier University, Chittagong, Bangladesh** <br />
-Apr 2022 – Present: Assistant Professor (Currently on Study Leave) <br />
+Apr 2022 – Sep 2023: Assistant Professor (Currently on Study Leave) <br />
 Oct 2018 – Apr 2022: Lecturer <br />
 **Responsibilities:** 
 <ul>
