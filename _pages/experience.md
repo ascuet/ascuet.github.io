@@ -28,7 +28,7 @@ Oct 2018 – Apr 2022: Lecturer <br />
 
 
 **➤Invert Emo Tech, Chittagong, Bangladesh** <br />
-May 2016 – Oct 2018: Web Developer <br />
+May 2016 – Oct 2018: Software Engineer <br />
 **Responsibilities:** 
 <ul>
   <li>Developed web applications using Laravel, Vue.js, MySQL, jQuery, AJAX, and Bootstrap.</li>
