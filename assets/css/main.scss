@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.active {
+  font-weight: bold;
+  color: #52adc8 !important;
+  border-bottom: 2px solid #52adc8;
+}
