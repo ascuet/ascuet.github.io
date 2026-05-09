@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-**➤PhD (Sep 2023 - Present), Information Science at Drexel University, USA** <br />
+**PhD (Sep 2023 - Present), Information Science at Drexel University, USA** <br />
 ***Courses:***  
 <table>
   <tr>
@@ -31,7 +31,7 @@ author_profile: true
 </table>
 <hr>
 
-**➤MSc (2021), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
+**MSc (2021), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
 **Thesis:** Classification of Sports Videos using Deep Neural Networks <br />
 ***Courses:***  
 <table>
@@ -48,5 +48,5 @@ author_profile: true
 </table>
 <hr>
 
-**➤BSc (2014), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
+**BSc (2014), Computer Science & Engineering at Chittagong University of Engineering & Technology, Bangladesh** <br />
 **Thesis:** A Method for Image Retrieval System Based on Class Detection and Content Analysis in Broad Domain
