@@ -4,7 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-**➤College of Computing and Informatics, Drexel University, Philadelphia, Pennsylvania, United States** <br />
+**College of Computing and Informatics, Drexel University, Philadelphia, Pennsylvania, United States** <br />
 Sep 2023 – Present: Graduate Research/Teaching Assistant <br />
 
 **Responsibilities:** 
@@ -15,7 +15,7 @@ Sep 2023 – Present: Graduate Research/Teaching Assistant <br />
   <li>Utilized machine learning algorithms such as case-based reasoning, XGBoost, and decision trees to interpret decisions.</li>
 </ul>
 
-**➤Department of CSE, Premier University, Chittagong, Bangladesh** <br />
+**Department of CSE, Premier University, Chittagong, Bangladesh** <br />
 Apr 2022 – Sep 2023: Assistant Professor (Currently on Study Leave) <br />
 Oct 2018 – Apr 2022: Lecturer <br />
 **Responsibilities:** 
@@ -27,7 +27,7 @@ Oct 2018 – Apr 2022: Lecturer <br />
 </ul>
 
 
-**➤Invert Emo Tech, Chittagong, Bangladesh** <br />
+**Invert Emo Tech, Chittagong, Bangladesh** <br />
 May 2016 – Oct 2018: Software Engineer <br />
 **Responsibilities:** 
 <ul>
@@ -38,7 +38,7 @@ May 2016 – Oct 2018: Software Engineer <br />
   <li>Developed secure REST APIs using Laravel for integration with Android applications.</li>
 </ul>
 
-**➤Spectrum IT Solutions Limited, Chittagong, Bangladesh** <br />
+**Spectrum IT Solutions Limited, Chittagong, Bangladesh** <br />
 Nov 2015 – Apr 2016: Assistant Software Engineer <br />
 **Responsibilities:** 
 <ul>
@@ -46,7 +46,7 @@ Nov 2015 – Apr 2016: Assistant Software Engineer <br />
   <li>Provided ongoing support by identifying and fixing bugs in existing applications.</li>
 </ul>
 
-**➤Royex Technologies, Chittagong, Bangladesh** <br />
+**Royex Technologies, Chittagong, Bangladesh** <br />
 Jan 2015 – Aug 2015: Software Engineer <br />
 **Responsibilities:** 
 <ul>
@@ -55,14 +55,14 @@ Jan 2015 – Aug 2015: Software Engineer <br />
    <li>Provided regular updates to the team leader on project status and developments.</li>
 </ul>
 
-**➤Freelancing Experience** <br />
+**Freelancing Experience** <br />
 Jan 2016 – August 2022: Freelance Web Developer <br />
 1. Worked on Upwork: MyBodega (USA), Dubips (Germany), Hrick (Bangladesh), Pakpoll (Pakistan), Hostbin (USA)
 2. Worked for a Canada-India Joint company, Anveen NetWorks
 3. Developed an application ( Azshipping) for crew management and maintaining it
 4. Developed customzed CMS for Bandarban Police
 
-**➤Review Experience** <br />
+**Review Experience** <br />
 1. 2022 International Conference on Innovations in Science, Engineering and Technology (ICISET)
 2. Memetic Computing (Q1, SCIE) journal by Springer Nature
 3. Imaging Science Journal (Q4, SCIE) by Taylor & Francis
