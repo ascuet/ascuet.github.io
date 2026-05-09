@@ -6,9 +6,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item">
-            <a href="{{ domain }}{{ link.url }}"
-               {% if page.url == link.url %}class="active"{% endif %}>
+          <li class="masthead__menu-item {% if page.url == link.url %}active{% endif %}">
+            <a href="{{ domain }}{{ link.url }}">
               {{ link.title }}
             </a>
           </li>
